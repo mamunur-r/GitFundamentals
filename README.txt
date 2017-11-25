@@ -1,3 +1,3 @@
 Hello, Git
 Hello again
-updated form diff location
+I have updated readme file so that it can be merged
